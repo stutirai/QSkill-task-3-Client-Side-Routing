@@ -8,8 +8,8 @@ A React application demonstrating client side routing using **react-router-dom**
 
 ## 🔗 Live Demo
 
-[Add your deployed link here once hosted — e.g. via Vercel/Netlify]
-
+[[Add your deployed link here once hosted — e.g. via Vercel/Netlify]
+](https://q-skill-task-3-client-side-routing.vercel.app/)
 ---
 
 ## Task Preview
