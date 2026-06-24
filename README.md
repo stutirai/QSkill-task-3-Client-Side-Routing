@@ -1,4 +1,4 @@
-# 🗺️ QSkill Task 3 — Client Side Routing
+#  QSkill Task 3 — Client Side Routing
 
 > Internship task submission completed as part of the **QSkill Frontend Development Internship**.
 
@@ -6,25 +6,28 @@ A React application demonstrating client side routing using **react-router-dom**
 
 ---
 
-## 🔗 Live Demo
+## Live Demo
 
-[[Add your deployed link here once hosted — e.g. via Vercel/Netlify]
-](https://q-skill-task-3-client-side-routing.vercel.app/)
+https://q-skill-task-3-client-side-routing.vercel.app/
+
 ---
 
 ## Task Preview
 
-<img src="./screenshot.png" alt="App Screenshot" width="800"/>
+<img src="./Screenshot.png" alt="App Screenshot" width="800"/>
+<img src="./Screenshot2.png" alt="App Screenshot" width="800"/>
+<img src="./Screenshot3.png" alt="App Screenshot" width="800"/>
+
 
 ---
 
-## 📋 Task Description
+## Task Description
 
 > Create client side routing using **react-router-dom**.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -34,7 +37,7 @@ A React application demonstrating client side routing using **react-router-dom**
 
 ---
 
-## ✨ Features
+##  Features
 
 - Multiple pages — Home, About, Users — navigable without any page reload
 - Active link highlighting using `NavLink`
@@ -44,7 +47,7 @@ A React application demonstrating client side routing using **react-router-dom**
 
 ---
 
-## ⚙️ How It Works — Routing Breakdown
+##  How It Works — Routing Breakdown
 
 **`BrowserRouter`**
 Wraps the entire app in `main.jsx` to enable routing throughout the component tree.
@@ -77,7 +80,7 @@ Used to redirect — any unknown URL hits the `*` wildcard route and gets redire
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ```
 task3-router/
@@ -98,7 +101,7 @@ task3-router/
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 Clone or download the repository, then run:
 
