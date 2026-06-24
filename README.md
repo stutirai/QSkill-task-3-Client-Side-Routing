@@ -14,9 +14,9 @@ https://q-skill-task-3-client-side-routing.vercel.app/
 
 ## Task Preview
 
-<img src="./Screenshot.png" alt="App Screenshot" width="800"/>
-<img src="./Screenshot2.png" alt="App Screenshot" width="800"/>
-<img src="./Screenshot3.png" alt="App Screenshot" width="800"/>
+<img src="./Screenshot.png" alt="App Screenshot" width="500"/>
+<img src="./Screenshot2.png" alt="App Screenshot" width="500"/>
+<img src="./Screenshot3.png" alt="App Screenshot" width="500"/>
 
 
 ---
